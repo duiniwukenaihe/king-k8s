@@ -5,7 +5,7 @@
 [ "$MYSQL_HOST" ] || MYSQL_HOST='10.10.20.13'
 [ "$MYSQL_PORT" ] || PORT="3306"
 [ "$MYSQL_DB" ] || DB="kingfisher"
-[ "$DB_URL" ] || DB_URL="${MYSQL_USER}:${MYSQL_PASSWORD}@tcp(${MYSQL_HOST}:${MYSQL_PORT})/${MYSQL_DB}"
+[ "$DB_URL" ] || DB_URL="${MYSQL_USER}:${MYSQL_PASSWORD}@tcp(${MYSQL_HOST}:3306)/kingfisher"
 
 [ "$MQ_USER" ] || MQ_USER=admin
 [ "$MQ_PASSWORD" ] || MQ_PASSWORD=admin
