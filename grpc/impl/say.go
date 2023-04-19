@@ -22,7 +22,7 @@ package impl
 
 import (
 	"context"
-	pb "github.com/open-kingfisher/king-k8s/grpc/proto"
+	pb "github.com/duiniwukenaihe/king-k8s/grpc/proto"
 	"log"
 )
 

@@ -1,10 +1,10 @@
 package resource
 
 import (
-	"github.com/open-kingfisher/king-utils/common"
-	"github.com/open-kingfisher/king-utils/common/handle"
-	"github.com/open-kingfisher/king-utils/common/log"
-	"github.com/open-kingfisher/king-utils/db"
+	"github.com/duiniwukenaihe/king-utils/common"
+	"github.com/duiniwukenaihe/king-utils/common/handle"
+	"github.com/duiniwukenaihe/king-utils/common/log"
+	"github.com/duiniwukenaihe/king-utils/db"
 	corev1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"strings"

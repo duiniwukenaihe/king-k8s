@@ -3,10 +3,10 @@ package main
 import (
 	"net"
 
-	"github.com/open-kingfisher/king-k8s/grpc/impl"
-	pb "github.com/open-kingfisher/king-k8s/grpc/proto"
-	"github.com/open-kingfisher/king-utils/common"
-	"github.com/open-kingfisher/king-utils/common/log"
+	"github.com/duiniwukenaihe/king-k8s/grpc/impl"
+	pb "github.com/duiniwukenaihe/king-k8s/grpc/proto"
+	"github.com/duiniwukenaihe/king-utils/common"
+	"github.com/duiniwukenaihe/king-utils/common/log"
 	"google.golang.org/grpc"
 )
 

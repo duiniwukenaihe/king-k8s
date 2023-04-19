@@ -2,7 +2,7 @@ package resource
 
 import (
 	"errors"
-	"github.com/open-kingfisher/king-utils/common/handle"
+	"github.com/duiniwukenaihe/king-utils/common/handle"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/labels"
 	"k8s.io/apimachinery/pkg/runtime/schema"

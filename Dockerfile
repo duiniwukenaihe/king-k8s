@@ -1,6 +1,6 @@
 FROM golang:1.14.3-alpine3.11 as builder
 ARG NAME="king-k8s"
-ARG GIT_URL="https://github.com/open-kingfisher/$NAME.git"
+ARG GIT_URL="https://github.com/duiniwukenaihe/$NAME.git"
 RUN set -xe \
     && sed -i 's/dl-cdn.alpinelinux.org/mirrors.aliyun.com/g' /etc/apk/repositories \
     && apk add --no-cache protoc git make \

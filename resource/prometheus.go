@@ -3,9 +3,9 @@ package resource
 import (
 	"context"
 	"fmt"
-	"github.com/open-kingfisher/king-utils/common"
-	"github.com/open-kingfisher/king-utils/common/handle"
-	"github.com/open-kingfisher/king-utils/common/log"
+	"github.com/duiniwukenaihe/king-utils/common"
+	"github.com/duiniwukenaihe/king-utils/common/handle"
+	"github.com/duiniwukenaihe/king-utils/common/log"
 	v1 "github.com/prometheus/client_golang/api/prometheus/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"regexp"

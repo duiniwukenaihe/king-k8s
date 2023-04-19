@@ -1,6 +1,6 @@
 # Kingfisher King-k8s
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
-[![Go Report Card](https://goreportcard.com/badge/github.com/open-kingfisher/king-k8s)](https://goreportcard.com/report/github.com/open-kingfisher/king-k8s)
+[![Go Report Card](https://goreportcard.com/badge/github.com/duiniwukenaihe/king-k8s)](https://goreportcard.com/report/github.com/duiniwukenaihe/king-k8s)
 
 Kubernetes API
 
@@ -18,4 +18,4 @@ Kubernetes API
 - 生成镜像推送到镜像仓库： make push
 
 ## 联系我们
-- [交流群](https://github.com/open-kingfisher/community/blob/master/contact_us/README.md)
+- [交流群](https://github.com/duiniwukenaihe/community/blob/master/contact_us/README.md)

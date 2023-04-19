@@ -1,13 +1,13 @@
-module github.com/open-kingfisher/king-k8s
+module github.com/duiniwukenaihe/king-k8s
 
 go 1.14
 
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 // indirect
 	github.com/docker/docker v0.0.0-00010101000000-000000000000
+	github.com/duiniwukenaihe/king-utils v0.0.0-20230418131609-1a5fb70d0b30 // indirect
 	github.com/gin-gonic/gin v1.6.2
 	github.com/golang/protobuf v1.4.0
-	github.com/open-kingfisher/king-utils v0.0.0-20200715102206-56ff150e23ec
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.5.1
 	golang.org/x/net v0.0.0-20200425230154-ff2c4b7c35a0

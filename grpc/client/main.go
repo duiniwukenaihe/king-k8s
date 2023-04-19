@@ -24,8 +24,8 @@ import (
 	"fmt"
 	"time"
 
-	pb "github.com/open-kingfisher/king-k8s/grpc/proto"
-	"github.com/open-kingfisher/king-utils/common/log"
+	pb "github.com/duiniwukenaihe/king-k8s/grpc/proto"
+	"github.com/duiniwukenaihe/king-utils/common/log"
 	"google.golang.org/grpc"
 	"k8s.io/api/core/v1"
 )

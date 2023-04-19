@@ -3,9 +3,9 @@ package impl
 import (
 	"encoding/json"
 	"github.com/gin-gonic/gin"
-	"github.com/open-kingfisher/king-utils/common"
-	"github.com/open-kingfisher/king-utils/common/log"
-	"github.com/open-kingfisher/king-utils/config"
+	"github.com/duiniwukenaihe/king-utils/common"
+	"github.com/duiniwukenaihe/king-utils/common/log"
+	"github.com/duiniwukenaihe/king-utils/config"
 	"io/ioutil"
 	"net/http"
 )

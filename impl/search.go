@@ -2,9 +2,9 @@ package impl
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/open-kingfisher/king-k8s/resource"
-	"github.com/open-kingfisher/king-utils/common"
-	"github.com/open-kingfisher/king-utils/common/handle"
+	"github.com/duiniwukenaihe/king-k8s/resource"
+	"github.com/duiniwukenaihe/king-utils/common"
+	"github.com/duiniwukenaihe/king-utils/common/handle"
 )
 
 func GetSearch(c *gin.Context) {

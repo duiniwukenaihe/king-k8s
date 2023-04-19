@@ -1,7 +1,7 @@
 package resource
 
 import (
-	"github.com/open-kingfisher/king-utils/common/handle"
+	"github.com/duiniwukenaihe/king-utils/common/handle"
 	"k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 )

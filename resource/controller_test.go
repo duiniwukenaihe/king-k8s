@@ -2,9 +2,9 @@ package resource
 
 import (
 	"fmt"
-	"github.com/open-kingfisher/king-utils/common"
-	"github.com/open-kingfisher/king-utils/common/access"
-	"github.com/open-kingfisher/king-utils/common/handle"
+	"github.com/duiniwukenaihe/king-utils/common"
+	"github.com/duiniwukenaihe/king-utils/common/access"
+	"github.com/duiniwukenaihe/king-utils/common/handle"
 	"k8s.io/api/apps/v1"
 	"testing"
 )

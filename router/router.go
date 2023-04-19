@@ -2,9 +2,9 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/open-kingfisher/king-k8s/impl"
-	"github.com/open-kingfisher/king-utils/common"
-	jwtAuth "github.com/open-kingfisher/king-utils/middleware/jwt"
+	"github.com/duiniwukenaihe/king-k8s/impl"
+	"github.com/duiniwukenaihe/king-utils/common"
+	jwtAuth "github.com/duiniwukenaihe/king-utils/middleware/jwt"
 	"golang.org/x/net/websocket"
 	"net/http"
 )
